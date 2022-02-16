@@ -1,0 +1,5 @@
+name="testrg1"
+location ="eastus"
+accountname = "storageaccountname137346"
+account_tier = "Standard"
+account_replication_type ="GRS"
